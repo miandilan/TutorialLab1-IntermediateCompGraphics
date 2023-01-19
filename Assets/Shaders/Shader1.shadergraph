@@ -423,7 +423,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "30e982140dfd4f83937146c0623eb95a",
     "m_Id": 0,
-    "m_DisplayName": "Float",
+    "m_DisplayName": "Float1",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -631,7 +631,7 @@
     "m_Guid": {
         "m_GuidSerialized": "e19960f0-544e-46fc-926e-bdf4127092ee"
     },
-    "m_Name": "Float",
+    "m_Name": "Float1",
     "m_DefaultRefNameVersion": 0,
     "m_RefNameGeneratedByDisplayName": "",
     "m_DefaultReferenceName": "Vector1_5e2e7aa53cc442b096566768edf6f370",
